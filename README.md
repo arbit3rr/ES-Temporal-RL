@@ -1,4 +1,4 @@
-# CRL-Dispatch
+# Temporal RL for Energy Management
 
 ### Dataset
 | Data | Source |
