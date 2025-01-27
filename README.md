@@ -1,8 +1,6 @@
 # CRL-Dispatch
 
 ### Dataset
-
-### Supported Algorithms
 | Data | Source |
 | --- | --- |
 | `PV & Wind Generation` | [Nationaal Energie Dashboard](https://ned.nl) |
