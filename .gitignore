@@ -5,6 +5,7 @@ __pycache__/
 *$py.class
 **/Logs
 **/training_record
+**/plots
 
 # C extensions
 *.so
