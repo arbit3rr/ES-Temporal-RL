@@ -3,7 +3,7 @@ __pycache__/
 **/.DS_Store
 *.py[cod]
 *$py.class
-**/Logs
+# **/Logs
 **/training_record
 **/plots
 
