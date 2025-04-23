@@ -1,4 +1,4 @@
-# Temporal RL for Energy Management
+# Temporal RL for Energy System Control
 
 ### Dataset
 | Data | Source |
