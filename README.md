@@ -16,6 +16,7 @@ The temporal RL agent introduces temporal awareness to RL by integrating forecas
 ```
 
 ## Results
+![Temporal Embedding](https://github.com/user-attachments/assets/3feb3b5c-a6b7-431a-9eeb-4cc71ade899f)
 
 ## Inference
 Run the following notebook:
