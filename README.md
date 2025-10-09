@@ -1,6 +1,6 @@
 # Temporal RL for Energy System Control
 
-![Temporal RL](https://github.com/user-attachments/assets/07fb5e01-7eec-4791-968b-c258fc170381)
+![Temporal RL](https://github.com/user-attachments/assets/d6c99cf4-b612-4d6f-b119-6f35aee11f98)
 
 ### Citation
 
