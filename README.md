@@ -12,15 +12,6 @@ The temporal RL agent introduces temporal awareness to RL by integrating forecas
   pages={1002--1004},
   year={2025}
 }
-
-@inproceedings{ardakani2025TRL,
-  title={Attention-Based Temporal Reinforcement Learning for Energy System Control},
-  author={Ardakani, Amirhossein Heydarian and Hurink, Johann and Gibson, Ian and Shirazi, Elham},
-  booktitle={2025 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)},
-  pages={1--5},
-  year={2025},
-  organization={IEEE}
-}
 ```
 
 ## Results
