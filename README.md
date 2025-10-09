@@ -5,6 +5,14 @@ The temporal RL agent introduces temporal awareness to RL by integrating forecas
 
 ## Citation
 ```python
+@inproceedings{heydarian2025embedding,
+  title={Embedding Temporal Awareness in Reinforcement Learning Models for Energy System Control},
+  author={Heydarian Ardakani, Amirhossein and Hurink, Johann and Gibson, Ian and Shirazi, Elham},
+  booktitle={Proceedings of the 16th ACM International Conference on Future and Sustainable Energy Systems},
+  pages={1002--1004},
+  year={2025}
+}
+
 @inproceedings{ardakani2025TRL,
   title={Attention-Based Temporal Reinforcement Learning for Energy System Control},
   author={Ardakani, Amirhossein Heydarian and Hurink, Johann and Gibson, Ian and Shirazi, Elham},
