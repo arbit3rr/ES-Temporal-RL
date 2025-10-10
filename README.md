@@ -1,6 +1,6 @@
 # Temporal RL for Energy System Control
 
-The temporal RL agent introduces temporal awareness to RL by integrating forecasts (e.g., load, PV, and wind generation) into decision-making through an attention-based temporal embedding module.
+The temporal RL agent embeds temporal awareness to RL by integrating forecasts (e.g., load, PV, and wind generation) into decision-making through an attention-based temporal embedding module.
 ![Temporal RL](https://github.com/user-attachments/assets/d658c1dc-16f2-4958-9237-c7268a6a1f8a)
 
 ## Citation
