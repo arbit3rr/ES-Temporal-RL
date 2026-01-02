@@ -5,6 +5,13 @@ The temporal RL agent embeds temporal awareness to RL by integrating forecasts (
 
 ## Citation
 ```python
+@INPROCEEDINGS{11305619,
+  author={Ardakani, Amirhossein Heydarian and Hurink, Johann and Gibson, Ian and Shirazi, Elham},
+  booktitle={2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)}, 
+  title={Attention-Based Temporal Reinforcement Learning for Energy System Control}, 
+  year={2025},
+  pages={1-5},
+}
 @inproceedings{heydarian2025embedding,
   title={Embedding Temporal Awareness in Reinforcement Learning Models for Energy System Control},
   author={Heydarian Ardakani, Amirhossein and Hurink, Johann and Gibson, Ian and Shirazi, Elham},
